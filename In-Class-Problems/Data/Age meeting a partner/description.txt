@@ -1,0 +1,9 @@
+This dataset is derived from the "How Couples Meet and Stay Together" (HCMST) survey, available at https://data.stanford.edu/hcmst. The HCMST dataset is a longitudinal study of how adults in the United States meet their romantic partners and the subsequent relationship outcomes, including marriage.
+
+This particular subset of the HCMST dataset includes a one-dimensional vector of values that represents the age at which respondents met their significant other. The data is segmented into four distinct groups, defined by the marital status of the respondent and the gender of the partner. The groups are:
+
+    Unmarried individuals who are dating female partner.
+    Unmarried individuals who are dating a male partner.
+    Married individuals who are married a female partner.
+    Married individuals who are married a male partner.
+
